@@ -32,23 +32,23 @@ There're already several useful binaries and applications available on **Homebre
 👉 Below you'll find a list of tools spotted in **The Offical Homebrew Tap 👍**.
 
 
-###Wi-Fi Hacking Tools
+### Wi-Fi Hacking Tools
 - `aircrack-ng` - `Next-generation aircrack with lots of new features`
 
 
-###ARP Tools
+### ARP Tools
 - `arp-scan` - `ARP scanning and fingerprinting tool`
 - `arp-sk` - `ARP traffic generation tool`
 - `arping` - `Utility to check whether MAC addresses are already taken on a LAN`
 - `arpoison` - `UNIX arp cache update utility`
 
 
-###Shells
+### Shells
 - `dsh` - `Dancer's shell, or distributed shell`
 - `rssh` - `Restricted shell for use with OpenSSH`
 
 
-###Analyzing Tools
+### Analyzing Tools
 - `fail2ban` - `Scan log files and ban IPs showing malicious signs`
 - `http_load` - `Test throughput of a web server by running parallel fetches`
 - `httpdiff` - `Compare two HTTP(S) responses`
@@ -73,7 +73,7 @@ There're already several useful binaries and applications available on **Homebre
 - `wrk` - `HTTP benchmarking tool`
 
 
-###HTTP Tools
+### HTTP Tools
 - `apib` - `HTTP performance-testing tool`
 - `curl` - `Get a file from an HTTP, HTTPS or FTP server`
 - `curl-openssl` - `Get a file from an HTTP, HTTPS or FTP server`
@@ -97,7 +97,7 @@ There're already several useful binaries and applications available on **Homebre
 - `whistle` - `HTTP, HTTP2, HTTPS, Websocket debugging proxy`
 
 
-###SSH Tools
+### SSH Tools
 - `apt-dater` - `Manage package updates on remote hosts using SSH`
 - `assh` - `Advanced SSH config - Regex, aliases, gateways, includes and dynamic hosts`
 - `autossh` - `Automatically restart SSH sessions and tunnels`
@@ -134,7 +134,7 @@ There're already several useful binaries and applications available on **Homebre
 - `zssh` - `Interactive file transfers over SSH`
 
 
-###Web Servers
+### Web Servers
 - `algernon` - `Pure Go web server with Lua, Markdown, HTTP/2 and template support`
 - `armour` - `Uncomplicated, modern HTTP server`
 - `caddy` - `Alternative general-purpose HTTP/2 web server`
@@ -154,7 +154,7 @@ There're already several useful binaries and applications available on **Homebre
 - `webfs` - `HTTP server for purely static content`
 
 
-###To Organize
+### To Organize
 - `aws-keychain` - `Uses macOS keychain for storage of AWS credentials`
 - `certbot` - `Tool to obtain certs from Let's Encrypt and autoenable HTTPS`
 - `clam-av` - `Anti-virus software`
