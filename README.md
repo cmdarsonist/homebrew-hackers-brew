@@ -1,4 +1,4 @@
-# Hackers' 🍺 Brew 
+# Hackers' Brew 🍺
 > *A Homebrew / Linuxbrew tap to install InfoSec and Hacking Tools and Utilities on Linux, BSD, and macOS.*
 
 🎯 The **objective** of this tap is to simplify the distribution of **InfoSec / Hacking tools and utilities** on **a wide-range of Linux Distros** and **macOS**. 
